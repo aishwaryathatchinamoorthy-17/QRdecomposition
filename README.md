@@ -49,13 +49,12 @@ Q,R=QR_Decomposition(A)
 print("The Q Matrix is \n",Q)
 print("The R Matrix is \n",R)
 
-
-
-
-
-
-
 ```
+
+
+
+
+
 
 ## Output
 <img width="1193" height="583" alt="Screenshot 2026-11-23 101253" src="https://github.com/user-attachments/assets/8de7a0ee-20fd-4f5f-b3ab-e104c01914cc" />
